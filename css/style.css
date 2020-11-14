@@ -286,7 +286,7 @@ nav a#pull {
 	}
 }
 .main-menu{
-	border: 1px solid #E6E6EB;
+	border: 0px solid #fff;
 	background: #fefefe; /* Old browsers */
 	background: -moz-linear-gradient(top,  #fefefe 0%, #f7f7f7 48%, #f7f7f7 100%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fefefe), color-stop(48%,#f7f7f7), color-stop(100%,#f7f7f7)); /* Chrome,Safari4+ */
@@ -303,6 +303,7 @@ nav a#pull {
 }
 .top-header-search-box{
 	position: absolute;
+	margin-right:75px;
 	right: 27px;
 	top: 26px;
 	width: 213px;
@@ -532,7 +533,7 @@ nav a#pull {
   -ms-border-radius: 30px;
 }
 .callbacks_here a:after{
-	border:2px solid #F4BB36;
+	border:2px solid #fff;
 }
 .slide-text-info h1{
 	font-size: 5em;
