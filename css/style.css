@@ -158,15 +158,13 @@ ul.top-nav li span{
 .top-nav ul li a{
 	color: #fff;
 	padding: 1em 1.5em;
-	font-size: 1.1em;
-	font-weight: 400;
+	font-size: 16px;
 	text-align: center;
-	text-transform: uppercase;
 	position: relative;
-	font-weight: 800;
+	font-weight: 400;
 }
 .top-nav ul li a:hover{
-	color:#fff;
+	color:#9f8958;
 }
 .logo a{
 	display:block;
@@ -303,7 +301,6 @@ nav a#pull {
 }
 .top-header-search-box{
 	position: absolute;
-	margin-right:95px;
 	right: 27px;
 	top: 26px;
 	width: 213px;
@@ -599,7 +596,7 @@ nav a#pull {
 	padding: 2em 1em;
 	z-index: 2;
 	position: relative;
-	border: 1px solid #E2E2E2;
+
 }
 img.r-img{
 	border-radius:30em;
@@ -609,10 +606,10 @@ img.r-img{
 	-ms-border-radius:30em;
 }
 .top-row-col1 h2{
-	font-style: bold;
+
 	margin: 0 0 0.8em 0;
 	padding: 0;
-	color:#233237;
+	color:#9f8958;
 }
 .top-row-col1 label{
 	display:block;
@@ -1908,7 +1905,8 @@ span.mail a:hover{
 		margin-left: 4%;
 	}
 	.top-row-col1 h4 {
-		font-size: 1.1em;
+		font-size: 19px;
+		font-style: bold;
 	}
 	.top-row-col1 label {
 		display: block;
