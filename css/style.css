@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 html, body{
   	font-family: 'Avantgard', sans-serif;
     font-size: 100%;
-  	 background: #fff;
+  	 background: #134a69;
 }
 body a{
 	transition:0.5s all;
@@ -167,7 +167,7 @@ ul.top-nav li span{
 	color:#9f8958;
 }
 .logo a{
-	display:block;
+	display:left;
 }
 /* top-nav */
 .top-nav:before,
@@ -236,16 +236,16 @@ nav a#pull {
 		display: none;
 		height: auto;
 		margin:0;
-		background: #fff;
+		background: #134a69;
 	}
 	nav a#pull {
 		display: block;
 		position: relative;
-		color: #F26D7D;
+		color: #134a69;
 		text-align: right;
 		position: absolute;
 		top: -64px;
-		background: #FFF;
+		background: #134a69;
 		padding: 0.8em 0;
 	}
 	nav a#pull:after {
@@ -264,7 +264,7 @@ nav a#pull {
 		clear: both;
 	}
 	.top-nav ul li a {
-		color: #2C3E50;
+		color: #fff;
 		
 		padding: 0em 0;
 	}
@@ -592,7 +592,7 @@ nav a#pull {
 	margin-top: -140px;
 }
 .top-row-col1{
-	background: #FFF;
+	background: #124a69;
 	padding: 2em 1em;
 	z-index: 2;
 	position: relative;
@@ -609,7 +609,7 @@ img.r-img{
 
 	margin: 0 0 0.8em 0;
 	padding: 0;
-	color:#9f8958;
+	color:#fff;
 }
 .top-row-col1 label{
 	display:block;
@@ -624,7 +624,7 @@ img.r-img{
 	left: 97px;
 }
 .top-row-col1 h4{
-	color: #233237;
+	color: #fff;
 	font-size: 1.6em;
 	display: block;
 	margin: 0;
