@@ -305,6 +305,7 @@ nav a#pull {
 	top: 26px;
 	width: 213px;
 	z-index: 999;
+	margin-right:7px;
 }
 .top-header-search-box input[type="text"]{
 	color: #233237;
