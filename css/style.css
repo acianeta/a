@@ -219,7 +219,7 @@ nav a#pull {
   		position: relative;
   	}
   	nav li a {
-		border-bottom: 1px solid #eee;
+		border-bottom: 1.5px solid #9f8958;
 	}
   	nav a {
 	  	text-align: left;
